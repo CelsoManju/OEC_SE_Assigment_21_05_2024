@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|c:\\users\\manju\\onedrive\\desktop\\seassignment-masternewsubmit\\seassignment\\interview\\rl.backend\\commands\\handlers\\plans\\adduserstoplanprocedurecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|solutionrelative:rl.backend\\commands\\handlers\\plans\\adduserstoplanprocedurecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|c:\\users\\manju\\onedrive\\desktop\\seassignment-masternewsubmit\\seassignment\\interview\\rl.backend\\controllers\\planprocedurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|solutionrelative:rl.backend\\controllers\\planprocedurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|c:\\users\\manju\\onedrive\\desktop\\seassignment-masternewsubmit\\seassignment\\interview\\rl.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|solutionrelative:rl.backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|c:\\users\\manju\\onedrive\\desktop\\seassignment-masternewsubmit\\seassignment\\interview\\rl.backend\\commands\\adduserstoplanprocedurecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ABC75AA-12EA-4182-813B-E4A37144AB37}|RL.Backend\\RL.Backend.csproj|solutionrelative:rl.backend\\commands\\adduserstoplanprocedurecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B784A5FD-3BEF-4EA5-AE89-A69BFC0EE71B}|RL.Data\\RL.Data.csproj|c:\\users\\manju\\onedrive\\desktop\\seassignment-masternewsubmit\\seassignment\\interview\\rl.data\\datamodels\\planprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B784A5FD-3BEF-4EA5-AE89-A69BFC0EE71B}|RL.Data\\RL.Data.csproj|solutionrelative:rl.data\\datamodels\\planprocedure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B784A5FD-3BEF-4EA5-AE89-A69BFC0EE71B}|RL.Data\\RL.Data.csproj|c:\\users\\manju\\onedrive\\desktop\\seassignment-masternewsubmit\\seassignment\\interview\\rl.data\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B784A5FD-3BEF-4EA5-AE89-A69BFC0EE71B}|RL.Data\\RL.Data.csproj|solutionrelative:rl.data\\datamodels\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B784A5FD-3BEF-4EA5-AE89-A69BFC0EE71B}|RL.Data\\RL.Data.csproj|c:\\users\\manju\\onedrive\\desktop\\seassignment-masternewsubmit\\seassignment\\interview\\rl.data\\migrations\\rlcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B784A5FD-3BEF-4EA5-AE89-A69BFC0EE71B}|RL.Data\\RL.Data.csproj|solutionrelative:rl.data\\migrations\\rlcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Backend\\Program.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Backend\\Program.cs",
+              "RelativeToolTip": "RL.Backend\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:35:20.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanProcedureController.cs",
+              "DocumentMoniker": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "ToolTip": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "RelativeToolTip": "RL.Backend\\Controllers\\PlanProcedureController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T01:13:05.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddUsersToPlanProcedureCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Backend\\Commands\\Handlers\\Plans\\AddUsersToPlanProcedureCommandHandler.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Commands\\Handlers\\Plans\\AddUsersToPlanProcedureCommandHandler.cs",
+              "ToolTip": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Backend\\Commands\\Handlers\\Plans\\AddUsersToPlanProcedureCommandHandler.cs",
+              "RelativeToolTip": "RL.Backend\\Commands\\Handlers\\Plans\\AddUsersToPlanProcedureCommandHandler.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAADwv1wAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T01:12:11.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddUsersToPlanProcedureCommand.cs",
+              "DocumentMoniker": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Backend\\Commands\\AddUsersToPlanProcedureCommand.cs",
+              "RelativeDocumentMoniker": "RL.Backend\\Commands\\AddUsersToPlanProcedureCommand.cs",
+              "ToolTip": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Backend\\Commands\\AddUsersToPlanProcedureCommand.cs",
+              "RelativeToolTip": "RL.Backend\\Commands\\AddUsersToPlanProcedureCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T01:11:26.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RLContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Data\\Migrations\\RLContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "RL.Data\\Migrations\\RLContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Data\\Migrations\\RLContextModelSnapshot.cs",
+              "RelativeToolTip": "RL.Data\\Migrations\\RLContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T01:49:20.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Data\\DataModels\\User.cs",
+              "RelativeDocumentMoniker": "RL.Data\\DataModels\\User.cs",
+              "ToolTip": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Data\\DataModels\\User.cs",
+              "RelativeToolTip": "RL.Data\\DataModels\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T01:09:28.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlanProcedure.cs",
+              "DocumentMoniker": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Data\\DataModels\\PlanProcedure.cs",
+              "RelativeDocumentMoniker": "RL.Data\\DataModels\\PlanProcedure.cs",
+              "ToolTip": "C:\\Users\\manju\\OneDrive\\Desktop\\seAssignment-masterNewsubmit\\seAssignment\\Interview\\RL.Data\\DataModels\\PlanProcedure.cs",
+              "RelativeToolTip": "RL.Data\\DataModels\\PlanProcedure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:57:20.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
